@@ -14,7 +14,7 @@ from faster_whisper import WhisperModel
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-//GEMINI_API_KEY = "AIzaSyBnTRSp1VrFtjuIV5NqoZ7x-vjGWKB8nFs"
+GEMINI_API_KEY = "AIzaSyBnTRSp1VrFtjuIV5NqoZ7x-vjGWKB8nFs"
 GEMINI_MODEL = "gemini-2.5-flash"
 GEMINI_API_BASE_URL = "https://generativelanguage.googleapis.com/v1beta/models"
 DEBUG_OUTPUT_DIR = "debug_audio_files"
